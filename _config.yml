@@ -27,15 +27,11 @@ owner:
   #bing-verify:
   #stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   youtube channel: UCa4YkkYh_pZKlmTpyxwmgtQ
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
-  disqus-shortname:
+
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '#CC0000'
+highlight-color: '#CC0001'
 lowlight-color: '#000'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
