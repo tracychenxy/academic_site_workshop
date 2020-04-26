@@ -3,10 +3,10 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am a academic, hear me roar. I am an Assistant Professor at Oregon Health & Science University.
+I am currently a PhD student at Columbia Univerisity in the City of New York. 
 
 ## Current Interests and Projects:
 
 - Website Design
-- [GitHub Pages](http://laderast.github.io)
+- [GitHub Pages](http://github.com/tracychenxy)
 - Academia
